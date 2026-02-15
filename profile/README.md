@@ -1,12 +1,60 @@
-## Hi there 👋
+# 🌋 Volcanium Studio
 
-<!--
+> Association loi 1901 dédiée au développement web, à l’apprentissage du numérique et aux projets communautaires innovants.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🚀 Ce que nous faisons
+
+- 🌐 Création de sites web (vitrines, associatifs, applications web)
+- 🛠️ Développement d’outils et solutions sur mesure
+- 🎮 Développement et gestion de serveurs Minecraft communautaires
+- 📚 Création de ressources pédagogiques pour apprendre le développement
+
+---
+
+## 💡 Nos compétences
+
+### 💻 Développement
+- HTML / CSS / JavaScript
+- Node.js / Express
+- APIs & bases de données
+- Développement de plugins Minecraft (Java)
+
+### 🎨 Design
+- UI / UX
+- Identité visuelle
+- Web design
+
+### 🖥️ Infrastructure
+- Hébergement web
+- Configuration de serveurs Linux
+- Gestion de services et déploiement
+
+---
+
+## 📂 Nos projets
+
+- 🌐 Projets web open-source
+- 🔌 Plugins Minecraft 
+- 📦 Outils internes et systèmes personnalisés
+- 🛠️ Projets éducatifs et communautaires
+
+Chaque dépôt contient sa propre documentation détaillée.
+
+---
+
+## 🤝 Contribuer
+
+Les contributions sont les bienvenues !
+
+1. Fork le projet
+2. Crée une branche (`feature/ma-fonctionnalite`)
+3. Commit tes modifications
+4. Ouvre une Pull Request
+
+Merci de respecter les bonnes pratiques de code et la structure du projet.
+
+---
+
+🔥 **Volcanium Studio — Créer, apprendre, partager.**
