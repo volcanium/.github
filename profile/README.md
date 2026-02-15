@@ -57,4 +57,4 @@ Merci de respecter les bonnes pratiques de code et la structure du projet.
 
 ---
 
-🔥 **Volcanium Studio — Créer, apprendre, partager.**
+🔥 **Imaginer, créer, communiquer : on vous accompagne**
