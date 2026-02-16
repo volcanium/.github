@@ -56,6 +56,6 @@ Les contributions sont les bienvenues !
 Merci de respecter les bonnes pratiques de code et la structure du projet.
 
 ---
-🌐 **https://volcanium-studio.com**
-📧 **contact@volcanium-studio.com** 
-🔥 **Imaginer, créer, communiquer : on vous accompagne**
+- 🌐 **https://volcanium-studio.com**
+- 📧 **contact@volcanium-studio.com** 
+- 🔥 **Imaginer, créer, communiquer : on vous accompagne**
